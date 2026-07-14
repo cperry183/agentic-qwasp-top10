@@ -48,4 +48,4 @@ python main.py --target https://example.internal
 
 This reference implementation contains placeholders and checklists only.
 No exploit payloads or unauthorized attack automation are included.
-# agentic-owasp-top10
+# agentic-qwasp-top10
