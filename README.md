@@ -1,4 +1,4 @@
-# Agentic OWASP Top 10 Assessment Framework
+# Agentic QWASP Top 10 Assessment Framework
 
 A defensive, agent-based framework for orchestrating authorized web application
 security assessments aligned to the OWASP Top 10.
