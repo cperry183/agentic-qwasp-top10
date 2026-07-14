@@ -9,6 +9,7 @@ This project demonstrates how specialized AI agents can coordinate a penetration
 test workflow for an application you own or have explicit authorization to test.
 
 The framework focuses on:
+
 - Asset discovery
 - Authentication review
 - Configuration review
@@ -27,8 +28,7 @@ The framework focuses on:
 6. EvidenceAgent
 7. ReportAgent
 
-## OWASP Coverage
-
+## QWASP Coverage
 - A01: Broken Access Control
 - A02: Cryptographic Failures
 - A03: Injection
